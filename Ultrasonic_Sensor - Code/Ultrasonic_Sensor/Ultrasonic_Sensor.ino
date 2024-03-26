@@ -1,6 +1,6 @@
-/*Fonctionnement d'un capteur ultrason HC-SR04*/
-/*Auteur du projet BloodyMasth*/
-/*Dans le cadre de mon projet TPE 2019*/
+/* Fonctionnement d'un capteur ultrason HC-SR04 */
+/* Auteur du projet Shaym */
+/* Dans le cadre de mon projet TPE 2019 */
 #include <LiquidCrystal.h>
 
 LiquidCrystal lcd(12,11,5,4,3,2);
